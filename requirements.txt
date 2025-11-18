@@ -2,7 +2,6 @@ certifi==2025.10.5
 charset-normalizer==3.4.4
 greenlet==3.2.4
 idna==3.11
-iniconfigs
 packaging==25.0
 playwright==1.55.0
 pluggy==1.6.0
